@@ -1,2 +1,0 @@
-# praktyki-
-Symulator lotto
